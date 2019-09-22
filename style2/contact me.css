@@ -1,0 +1,61 @@
+body{
+    text-decoration: none;
+}
+.topbar{
+    position: fixed;
+}
+.col-10 {
+   
+    background-color: white;
+    height: 1080px;
+    display: block;
+    padding-left: 62px;
+    padding-right: 0px;
+   
+}
+.col-2{
+    
+    background-color: black;
+    height: 1080px;
+    display: block;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.col-2 h1 ,  .col-10 h1 {
+    margin-top: 30px;
+}
+
+
+.col-10 a{
+    color: black;
+}
+.col-2 a{
+    color: white;
+}
+
+a:hover{
+    text-decoration: none;
+}
+.navbar1{
+    float: right;
+    margin-top: -19px;
+    margin-right: 62px;
+}
+
+.navbar1 ul li{
+    display: block;
+    float: right;
+    margin-left: 25px;
+}
+.navbar2{
+    float: right;
+    margin-top: -19px;
+    margin-right: 62px;
+}
+
+.navbar2 ul li{
+    display: block;
+    float: right;
+    margin-left: 25px;
+}
+
