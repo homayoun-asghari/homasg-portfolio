@@ -1,0 +1,52 @@
+body{
+
+}
+
+.background{
+    position: fixed;
+    float: right;
+    background-color: black;
+    width: 80%;
+    height: 100%;
+    z-index: -1;
+    margin-left: 273px;
+  
+}
+
+.topbar{
+    position: absolute;
+    width: 1366px;
+    padding: 20px;
+    position: fixed;
+}
+
+.namelogo{
+    position: relative;
+    margin-left: 20px;
+    color: #5D5D5D;
+
+}
+
+.navbar{
+    position: relative;
+    float: right;
+    margin-top: -55px;
+    margin-right: 20px;
+}
+
+.navbar ul li{
+    display: block;
+    float: right;
+    margin-left: 15px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: white;
+    
+}
+.navbar ul li a:hover{
+    color: #5D5D5D;
+}
+.navbar ul li a.active{
+    color: #5D5D5D;
+}
