@@ -1,4 +1,4 @@
-# homasg-portfolio
+# homasg — my first personal website (2019, abandoned)
 
 An abandoned personal portfolio site, hand-written in HTML and CSS over six days in **September 2019**. Three separate layout attempts, none finished, no site ever deployed.
 
