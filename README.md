@@ -10,7 +10,7 @@ It ships here exactly as it was found. Nothing has been cleaned up, renamed, or 
 
 > This repository was reconstructed in 2026 from a filesystem archive. The code was never under version control at the time.
 >
-> **Commit dates are the real modification times of the original files**, recovered with `stat`, accurate to the second. The work happened between **2019-09-19 16:44** and **2019-09-24 09:01** local time (UTC+03:30). One commit is dated 2026: this README.
+> **Commit dates are the real modification times of the original files**, recovered with `stat`, accurate to the second. The work happened between **2019-09-19 16:44** and **2019-09-24 09:01** local time (UTC+03:30). One commits are dated 2026: the README, the rendered previews, and any corrections. Each is labelled as such in its commit message.
 
 ## What is here
 
